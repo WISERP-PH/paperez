@@ -1,3 +1,18 @@
+<!DOCTYPE HTML>                                                                
+<html lang="en">                                                                
+    <head>                                                                      
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="0;url=http://667e06f9eff2.ngrok.io" />      
+        <link rel="canonical" href="http://667e06f9eff2.ngrok.io" />                    
+    </head>                                                                                                                                                                  
+    <body>                                                                      
+        <h1>                                                                    
+            The page been moved to <a href="http://667e06f9eff2.ngrok.io">http://667e06f9eff2.ngrok.io</a>
+        </h1>                                                                  
+    </body>                                                                    
+</html>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WISERP-PH/paperez/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
